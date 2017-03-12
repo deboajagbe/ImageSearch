@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="button_text">Select Image</string>
+    <string name="search_keywords">Type Here</string>
+</resources>
